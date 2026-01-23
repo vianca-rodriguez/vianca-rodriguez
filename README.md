@@ -29,10 +29,10 @@
 
 ## 💻 Current Projects & Learning
 
+- Audited **[CS50 Introduction to Cybersecurity](https://cs50.harvard.edu/college/2022/fall/)**  
 - Auditing and completing **[CS50 Web Programming with Python & JavaScript](https://cs50.harvard.edu/web/2020/)**  
-- Auditing and completing **[CS50 Introduction to Cybersecurity](https://cs50.harvard.edu/college/2022/fall/)**  
-- Building a **theater company website** (launching 2026)  
-- Building a **church website** (launching soon)  
+- Building a **theater company website** 
+- Building a **church website** 
 
 ---
 
@@ -56,12 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Vianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianca-rodriguez&show_icons=true&theme=radical&hide_title=false)
-
----
-
 ## 🏀 Fun Fact
 
 I played **semi-professional basketball** in Puerto Rico 🏀  
@@ -70,7 +64,7 @@ I played **semi-professional basketball** in Puerto Rico 🏀
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vianca-rodríguez-morales-b5846a340)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viancarodriguezm@gmail.com)  
 
 ---

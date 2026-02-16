@@ -54,11 +54,6 @@
 | Italian  | A2 |
 | Mandarin | A1 |
 
----
-
-## 🏀 Fun Fact
-
-I played **semi-professional basketball** in Puerto Rico 🏀  
 
 ---
 

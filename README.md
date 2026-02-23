@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Vianca Rodríguez
 
-🎓 **Computer Science student** | 🔐 Cybersecurity enthusiast | 💻 Full-Stack Web Developer in progress  
+🎓 **Computer Science student** | 🔐 Cybersecurity enthusiast | 💻 Full-Stack Web Developer  
 🌍 Aspiring polyglot: Spanish, English, Portuguese, Italian, Mandarin  
 
 ---
@@ -18,10 +18,13 @@
 **Frameworks & Tools:**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white) 
+![React]
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
+![IDA]
+![Ghidra]
 
 **Focus Areas:** Full-Stack Web Development | Cybersecurity  
 
